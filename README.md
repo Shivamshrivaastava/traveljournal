@@ -1,2 +1,2 @@
-# traveljournal
-Created with CodeSandbox
+# travel-journal
+react made travel-journal
